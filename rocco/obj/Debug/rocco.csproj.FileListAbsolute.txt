@@ -1,0 +1,17 @@
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\rocco.exe.config
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\rocco.exe
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\rocco.pdb
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\MySql.Data.dll
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\Google.Protobuf.dll
+C:\Users\caush\source\repos\rocco\rocco\bin\Debug\MySql.Data.xml
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.Form1.resources
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.manager.resources
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.Properties.Resources.resources
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.waiter.resources
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.csproj.GenerateResource.cache
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.csproj.CoreCompileInputs.cache
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.csproj.CopyComplete
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.exe
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.pdb
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.csprojAssemblyReference.cache
+C:\Users\caush\source\repos\rocco\rocco\obj\Debug\rocco.getInfo.resources
